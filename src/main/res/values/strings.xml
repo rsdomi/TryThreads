@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TryThreads</string>
+    <string name="radio_1">SingleThread</string>
+    <string name="radio_2">SingleAsyncTask</string>
+    <string name="radio_3">Multi-Thread</string>
+    <string name="radio_4">Multi-Callable</string>
+    <string name="radio_5">RenderScript</string>
+    <string name="radio_6">JNI</string>
+    <string name="radio_7">JNI_OPENMP</string>
+    <string name="radio_8">JNI_FK1D</string>
+    <string name="radio_9">FK1D_MP_ASYNC</string>
+
+    <string name="button_run">RUN</string>
+    <string name="press_button_to_run">press button to run</string>
+    <string name="renderscript">RenderScript</string>
+    <string name="jni_c">JNI/C++</string>
+    <string name="jni_c_openmp">JNI/C++/OPENMP</string>
+    <string name="jni_c_fk1d">JNI/C++/FK1D</string>
+    <string name="fk1d_mp_async">FK1D/MP/ASYNC</string>
+
+    <string name="single_thread">running again single thread...</string>
+    <string name="single_async_task">running again async task...</string>
+    <string name="multi_thread">running again multi-thread...</string>
+    <string name="multi_callable">running again multi-callable...</string>
+    <string name="run_renderscript">running again renderscript...</string>
+    <string name="run_jni">running again jni...</string>
+    <string name="run_jni_omp">running again jni_omp...</string>
+
+</resources>
